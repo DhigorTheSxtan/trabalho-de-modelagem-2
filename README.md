@@ -1,1 +1,4 @@
-# trabalho-de-modelagem-2
+- Estrutura do banco (/users, /admin-data, /public-data)
+- Explicação das roles (admin e user)
+- Como as Security Rules funcionam
+- Como rodar o projeto
